@@ -11,8 +11,8 @@ This bot allows you to:
  
  **View temperature info**
 
-**And more!**
-
+**And more!** 
+<br>
 Tested with:
  Bambu Lab A1 Mini
  Python 3.10+
