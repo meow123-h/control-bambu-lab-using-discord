@@ -1,4 +1,4 @@
-**Control your **Bambu Lab printer** from Discord using MQTT.**
+_**Control your **Bambu Lab printer** from Discord using MQTT.**_
 
 This bot allows you to:
  Check printer status
@@ -13,13 +13,12 @@ This bot allows you to:
 
 **And more!**
 
-_Tested with:
+Tested with:
  Bambu Lab A1 Mini
  Python 3.10+
  Discord.py
 Paho MQTT
-_
----
+
 
  ⚙️ Requirements
 
