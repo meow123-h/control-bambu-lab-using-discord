@@ -1,4 +1,4 @@
-_**Control your **Bambu Lab printer** from Discord using MQTT.**_
+# _**Control your **Bambu Lab printer** from Discord using MQTT.**_
 
 This bot allows you to:
  Check printer status
