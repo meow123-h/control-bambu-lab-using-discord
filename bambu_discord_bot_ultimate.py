@@ -4,7 +4,7 @@ import ssl, json, time, asyncio
 
 # ================= CONFIG =================
 DISCORD_TOKEN = "MTQ2NzQwMzA3MzQ5OTQzNTA4MA.GxVq6B.V7cMO8Eh1Lcova51qTkiakf7p1xdvtVALvt_M8 example bot id" 
-PRINTER_IP = "random ip"
+PRINTER_IP = "put it in here"
 PRINTER_SERIAL = "put it in here"
 ACCESS_CODE = "put it in here"
 ALLOWED_USER_ID = your user id
