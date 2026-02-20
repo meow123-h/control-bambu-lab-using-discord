@@ -3,12 +3,12 @@ import paho.mqtt.client as mqtt
 import ssl, json, time, asyncio
 
 # ================= CONFIG =================
-DISCORD_TOKEN = "MTQ2NzQwMzA3MzQ5OTQzNTA4MA.GxVq6B.V7cMO8Eh1Lcova51qTkiakf7p1xdvtVALvt_M8"
-PRINTER_IP = "192.168.20.13"
-PRINTER_SERIAL = "0309EA450600045"
-ACCESS_CODE = "46729066"
-ALLOWED_USER_ID = 1108331129292980284
-ALERT_CHANNEL_ID = 1349634122502639638
+DISCORD_TOKEN = "MTQ2NzQwMzA3MzQ5OTQzNTA4MA.GxVq6B.V7cMO8Eh1Lcova51qTkiakf7p1xdvtVALvt_M8 example bot id" 
+PRINTER_IP = "random ip"
+PRINTER_SERIAL = "put it in here"
+ACCESS_CODE = "put it in here"
+ALLOWED_USER_ID = your user id
+ALERT_CHANNEL_ID = your channel id
 # ==========================================
 
 # ---------- PRINTER STATE ----------
