@@ -256,6 +256,27 @@ Printer Access Code
 IP Address
 
 
+## Bambu Discord Bot – Usage Agreement
+
+Copyright (c) 2026 Noah
+
+Permission is granted to use, copy, modify, and distribute this software for any purpose, provided that proper credit is given to the original creator.
+
+Requirements:
+
+1. You must include the original creator's username: Noah
+2. If you share or redistribute this code, you must clearly state that it was originally created by Noah.
+3. You may modify the code, but you must still keep credit to the original creator.
+
+Restrictions:
+
+* You may not claim that you created the original project.
+* You may not remove the credit to Noah from the source code or documentation.
+
+This project was originally published on GitHub by Noah 
+
+
+
 
 The bot connects to your Bambu printer using MQTT.
 
