@@ -78,20 +78,6 @@ PRINTER_IP = "192.168.X.XXX"
 ACCESS_CODE = "YOUR_BAMBU_ACCESS_CODE"
 
 
-### **4.** Create a bot token
-Go to https://discord.com/developers/applications?new_application=true
-
-create a new app.
-
-After that, look at the sidebar and find **bot**
-
-Scroll down and find **Message Content Intent** 
-
-Turn it on
-
-Then, find "reset token"
-
-Press it and copy it.
 
 
 
